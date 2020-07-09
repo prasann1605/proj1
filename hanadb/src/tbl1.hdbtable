@@ -1,0 +1,6 @@
+column table "proj1.hanadb::tbl1" 
+(
+   "ID" INTEGER, 
+   "SEASON" VARCHAR(4),
+   "DECADE" VARCHAR(5)
+)
